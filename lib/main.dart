@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
           title: Text("Praktikum Android"),
         ),
         body: Center(
-          child: Text("Halo Selamat Datang di Flutter"),
+          child: Text("Halo, Selamat Datang di Flutter"),
         ),
       ),
     );
