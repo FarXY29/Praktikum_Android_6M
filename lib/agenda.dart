@@ -15,7 +15,7 @@ class Agenda {
       id: json['id'],
       judul: json['judul'],
       keterangan: json['keterangan'],
-      tanggal: json['tanggal'],
+      tanggal: json['tanggal'], //
     );
   }
 
